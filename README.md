@@ -10,7 +10,10 @@ and the video is transmitted.
 
 Currently the video is transmitted from start to finish, there is no control a user can exhibit over the video aside from closing the OpenCV frame.
 
+This protocol is used in the Watch Party web application on my github but I figured it would be useful to give this it's own project in case it's needed for future use.
+
 How to run between 2 different computers:
+
 -Change the youtube video link in the download video file to the desired youtube video link
 -Run the download video file which will save the youtube video's video and audio file in a local folder 
 
