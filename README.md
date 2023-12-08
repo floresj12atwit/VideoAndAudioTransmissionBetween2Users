@@ -24,4 +24,5 @@ How to run on local host:
 -Do the same as above but make the server have the local host 127.0.0.1
 
 -Run the server code
+
 -Run the client code in another terminal 
