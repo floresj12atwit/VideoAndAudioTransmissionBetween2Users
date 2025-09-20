@@ -1,4 +1,4 @@
-# VideoAndAudioTransmissionBetween2Users
+# Python Socket implementation to transmit video and audio between 2 clients
 This project was made to exhibit a protocol that transfers video and audio data from a server to a client.
 
 The download youtube video file has functions that will download a youtube video according to the youtube video link in the server code. 
